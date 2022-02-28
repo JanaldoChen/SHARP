@@ -1,0 +1,15 @@
+torch>=1.4.0
+torchvision>=0.5.0
+pytorch-lightning>=1.5.7
+torchmetrics
+dataclasses
+networkx
+trimesh
+PyMCubes
+PyOpenGL
+PyOpenGL_accelerate
+pyrender
+h5py
+opencv-python
+yacs>=0.1.8
+rtree
